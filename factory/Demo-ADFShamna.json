@@ -1,0 +1,9 @@
+{
+	"name": "Demo-ADFShamna",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f8ad83d5-7184-43b6-8605-125110ca27bd",
+		"tenantId": "d7e63b7f-81b4-4464-adab-45b34be1a653"
+	}
+}
